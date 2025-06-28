@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <>
+    <div className="wrapper">
       <div class="happy">
         <div class="balloon balloon1 balloon-anim1"></div>
         <div class="balloon balloon2 balloon-anim6"></div>
@@ -24,7 +24,7 @@ function App() {
       <div class="name">
         My Dear
       </div>
-    </>
+    </div>
   )
 }
 
